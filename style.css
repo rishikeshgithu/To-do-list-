@@ -1,7 +1,9 @@
-.Header {
-  background-color: blue;
-  text-align: center;
+h1{
+  color:grey;
+  text-align: center
 }
-.button{
-  text-align: center;
+button1{
+  background-color: lightgreen;
+  height: 25px;
+  width: 100px;
 }
